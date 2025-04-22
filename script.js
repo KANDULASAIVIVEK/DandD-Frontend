@@ -13,7 +13,7 @@ const characterRaceSpan = document.getElementById('characterRace');
 const characterClassSpan = document.getElementById('characterClass');
 
 // API configuration
-const API_ENDPOINT = 'http://localhost:3000/api/generate-content'; // Update if deployed
+const API_ENDPOINT = 'https://aidandd.onrender.com/api/generate-content'; // Update if deployed
 
 // Game state
 let iteration = 0;
